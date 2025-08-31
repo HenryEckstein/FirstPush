@@ -1,0 +1,15 @@
+[1mdiff --git a/This is a test file for FirstPush.txt b/This is a test file for FirstPush.txt[m
+[1mindex ce332cf..5aed7d5 100644[m
+[1m--- a/This is a test file for FirstPush.txt[m	
+[1m+++ b/This is a test file for FirstPush.txt[m	
+[36m@@ -1,3 +1,7 @@[m
+ This is a test file for FirstPush[m
+ [m
+[31m-This is a new line being added [m
+\ No newline at end of file[m
+[32m+[m[32mThis is a new line being added[m[41m [m
+[32m+[m
+[32m+[m[32mAdd Another line[m
+[32m+[m
+[32m+[m[32mAnd yet another[m
+\ No newline at end of file[m
